@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Kavengi00/Kavengi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- Here is a condensed version:
+ 
 
 ```markdown
- Hi there 👋
+# Hi there 👋
 
 I'm a student taking an Applied Statistics with Computing course.
 
