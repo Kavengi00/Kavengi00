@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
 
-```markdown
+
 # Hi there 👋
 
-I'm a student taking an Applied Statistics with Computing course.
+I'm a Data Science and Machine Learning Practitioner. 
 
 ## 🔭 I'm currently working on: 
 
@@ -27,7 +26,7 @@ I'm a student taking an Applied Statistics with Computing course.
 - Time Series Analysis using State Space Models
 - Design and Analysis of Experiments
 
-##🌱 I'm currently learning:
+## 🌱 I'm currently learning:
 
 - Machine Learning Engineering
 - State Space Models Exploration in Time Series
@@ -53,4 +52,4 @@ I'm a student taking an Applied Statistics with Computing course.
 ## ⚡ Fun fact:  
 
 I love puzzles and finding patterns!
-```
+
